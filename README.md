@@ -54,9 +54,7 @@ The values are:
 
 A sample result is included here:
 
-```text
-demo/camera_vs_occupancy_debug.mp4
-```
+https://github.com/user-attachments/assets/cd8684bb-aae4-4455-b7a8-263415d8ca73
 
 It shows the original camera frame next to the generated occupancy grid.
 
